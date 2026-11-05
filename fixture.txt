@@ -1,0 +1,1 @@
+AgentTape image-embed E2E fixture.
